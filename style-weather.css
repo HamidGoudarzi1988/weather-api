@@ -1,0 +1,37 @@
+#CityList {
+  margin: auto;
+  text-align: center;
+  width: 60%;
+}
+.center {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+#spinner {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  margin-top: 10px;
+  background-color: rgb(85, 67, 46);
+  color: fff;
+}
+
+body {
+  background-image: url('bg-img.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#searchTag {
+}
+
+#cardId {
+  background-color: rgb(85, 67, 46);
+  color: fff;
+}
+
+#searchButton {
+  background-color: rgb(85, 67, 46);
+  color: fff;
+}
